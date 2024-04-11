@@ -1,0 +1,4 @@
+//faceDetect.js
+class FaceDetection {
+ 
+}
